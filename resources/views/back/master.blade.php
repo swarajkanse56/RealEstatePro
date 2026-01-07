@@ -576,7 +576,8 @@
                     </div>
                 </div>
                 
-                <!-- NAVBAR -->
+                <!-- NAVBAR -->                <!-- NAVBAR -->
+
                 <nav class="navbar navbar-header navbar-header-transparent navbar-expand-lg border-bottom">
                     <div class="container-fluid">
                         <!-- SEARCH BAR -->
